@@ -13,4 +13,4 @@ https://gohugo.io/hosting-and-deployment/hosting-on-github/#build-hugo-with-gith
 
 
 ## View the Site
-http://pairofdocs.github.io/site-hugo
+https://pairofdocs.github.io/site-hugo/
